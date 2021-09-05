@@ -1,0 +1,20 @@
+These steps are essential for the code to run properly: -
+
+Please download the Dataset in the ".csv" format and paste them into your current User Directory as shown below:
+
+       This PC >>  Main Drive >> users >> current >> user >> paste the files
+ Dataset file name:- "matches.csv"
+
+Open the ".ipynb" code file in Jupyter Notebook. File name: - "IPL MATCH PREDICTION PROJECT.ipynb"
+
+Please ensure that all the following modules and required libraries are installed into your Python IDE: -
+numpy
+panda
+matploit
+seaborn
+sklearn
+
+Rest is easy just, Run the code and check the output
+
+
+
